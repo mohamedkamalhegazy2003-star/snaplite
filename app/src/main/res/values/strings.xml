@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnapLite</string>
+    <string name="hint">ابحث أو الصق رابط فيديو</string>
+    <string name="search">بحث</string>
+    <string name="choose_quality">اختر الجودة</string>
+    <string name="video_section">فيديو (صوت + صورة)</string>
+    <string name="audio_section">صوت فقط</string>
+    <string name="download_started">بدأ التحميل… شوف الإشعارات</string>
+    <string name="error_generic">حصل خطأ: %1$s</string>
+    <string name="no_results">مفيش نتائج</string>
+</resources>
